@@ -1,5 +1,5 @@
 local OrionLib = loadstring(game:HttpGet(('https://pastebin.com/raw/WRUyYTdY')))()
-local Window = OrionLib:MakeWindow({Name = "DANGO HUB - Car Crash Simulator", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+local Window = OrionLib:MakeWindow({Name = "DANGO HUB - Car Crash Simulator", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest", IntroText = "DANGO HUB - Car Crash Simulator"})
 local Tab = Window:MakeTab({
 	Name = "DANGO HUB",
 	Icon = "rbxassetid://4483345998",
