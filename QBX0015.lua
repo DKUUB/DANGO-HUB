@@ -20,9 +20,7 @@ Tab:AddButton({
 	Name = "TruckOrange",
 	Callback = function()
       		local args = {
-    [1] = 4962065731,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962065731
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -33,9 +31,7 @@ Tab:AddButton({
 	Name = "TruckBlue",
 	Callback = function()
       		local args = {
-    [1] = 4962226681,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962226681
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -46,9 +42,7 @@ Tab:AddButton({
 	Name = "Sweeper",
 	Callback = function()
       		local args = {
-    [1] = 4962464564,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962464564
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -59,9 +53,7 @@ Tab:AddButton({
 	Name = "Limusa",
 	Callback = function()
       		local args = {
-    [1] = 4962338974,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962338974
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -72,9 +64,7 @@ Tab:AddButton({
 	Name = "OffRode",
 	Callback = function()
       		local args = {
-    [1] = 4962355384,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962355384
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -85,9 +75,7 @@ Tab:AddButton({
 	Name = "airplane",
 	Callback = function()
       		local args = {
-    [1] = 4962429972,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962429972
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -98,9 +86,7 @@ Tab:AddButton({
 	Name = "Tank",
 	Callback = function()
       		local args = {
-    [1] = 4962476180,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962476180
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -111,9 +97,7 @@ Tab:AddButton({
 	Name = "Ship",
 	Callback = function()
       		local args = {
-    [1] = 6025324938,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 6025324938
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -124,9 +108,7 @@ Tab:AddButton({
 	Name = "SuperTank",
 	Callback = function()
       		local args = {
-    [1] = 5053572618,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 5053572618
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -137,9 +119,7 @@ Tab:AddButton({
 	Name = "KenCar",
 	Callback = function()
       		local args = {
-    [1] = 6219913609,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 6219913609
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -150,9 +130,7 @@ Tab:AddButton({
 	Name = "Tricycle",
 	Callback = function()
       		local args = {
-    [1] = 6174042318,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 6174042318
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -163,9 +141,7 @@ Tab:AddButton({
 	Name = "Train",
 	Callback = function()
       		local args = {
-    [1] = 4962489018,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 4962489018
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
@@ -176,9 +152,7 @@ Tab:AddButton({
 	Name = "SuperTruck",
 	Callback = function()
       		local args = {
-    [1] = 7790607194,
-    [2] = 3338997,
-    [3] = "Group"
+    [1] = 7790607194
 }
 
 game:GetService("ReplicatedStorage").Events.spawnCar:InvokeServer(unpack(args))
